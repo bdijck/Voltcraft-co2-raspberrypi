@@ -7,7 +7,7 @@ In this project I show how I used the Raspberry Pi to read CO2 information (and 
 
 *Credit where credit is due:*
 This project relies heavily on the work of others (big thanks to you!): see references.
-The python code is my own but the wiring and the information on the communication protocol are not.
+The python code is my own but I owe others for figuring out the wiring stuff and the communication protocol.
 
 ## Overview
 
